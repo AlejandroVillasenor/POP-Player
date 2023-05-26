@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1683130163 source:c:\users\govil\onedrive\escritorio\proyecto 3. reproductor de musica_alejandro rodrigo_villasenor_rivas\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<ctime>
+	"validation.hpp"
+	"interface.hpp"
+
+1682795707 c:\users\govil\onedrive\escritorio\proyecto 3. reproductor de musica_alejandro rodrigo_villasenor_rivas\validation.hpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<cstring>
+	<string>
+	<cmath>
+	<vector>
+
+1683094418 c:\users\govil\onedrive\escritorio\proyecto 3. reproductor de musica_alejandro rodrigo_villasenor_rivas\interface.hpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
